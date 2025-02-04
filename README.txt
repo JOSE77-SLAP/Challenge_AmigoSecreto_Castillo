@@ -15,6 +15,7 @@ https://github.com/JOSE77-SLAP/Challenge_AmigoSecreto_Castillo/blob/82e4937f7957
 2. Presiona "Añadir" para guardarlo en la lista.
 https://github.com/JOSE77-SLAP/Challenge_AmigoSecreto_Castillo/blob/9df6b2a485629f55806f895dd9382d2b8573cffa/Manual_de_usuario/A%C3%B1adir_nombre.jpg
 3. Repite el proceso hasta agregar todos los participantes deseados.
+https://github.com/JOSE77-SLAP/Challenge_AmigoSecreto_Castillo/blob/9db0ef7f3e4abc9bbfdc9cd729506e43e888bc32/Manual_de_usuario/Agregar_participantes.jpg
 4. Presiona "Sortear amigo" para seleccionar un nombre aleatoriamente.
 5. El nombre sorteado aparecerá en pantalla.
 
