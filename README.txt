@@ -17,6 +17,7 @@ https://github.com/JOSE77-SLAP/Challenge_AmigoSecreto_Castillo/blob/9df6b2a48562
 3. Repite el proceso hasta agregar todos los participantes deseados.
 https://github.com/JOSE77-SLAP/Challenge_AmigoSecreto_Castillo/blob/9db0ef7f3e4abc9bbfdc9cd729506e43e888bc32/Manual_de_usuario/Agregar_participantes.jpg
 4. Presiona "Sortear amigo" para seleccionar un nombre aleatoriamente.
+https://github.com/JOSE77-SLAP/Challenge_AmigoSecreto_Castillo/blob/48cbea49ee29c06a7eb63bb5ef2f79a881273589/Manual_de_usuario/Presionar_sortear.jpg
 5. El nombre sorteado aparecerá en pantalla.
 
 las tecnologías utilizadas en esta aplicación fueron: HTML, JavaScript, CSS y como apoyo para su confección, se utilizó chatGPT.
