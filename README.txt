@@ -1,4 +1,5 @@
 Estimados/as, a continuación les presento el proyecto en cuestión, titulado: "AMIGO SECRETO".
+https://github.com/JOSE77-SLAP/Challenge_AmigoSecreto_Castillo/blob/886f2cae314d763d8abe50e6dd9cf3f454bd5d9c/Manual_de_usuario/Amigo_Secreto.jpg
 
 Este proyecto es una aplicación web que permite agregar nombres de amigos y realizar un sorteo aleatorio entre ellos. Esta aplicación es ideal para cualquier tipo de eventos o actividades lúdicas, intercambio de regalos o juegos en grupos. Como características principales de esta aplicación tenemos:
 
