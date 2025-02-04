@@ -12,6 +12,7 @@ Este proyecto es una aplicación web que permite agregar nombres de amigos y rea
 
 1. Escribe un nombre en la caja de texto.
 2. Presiona "Añadir" para guardarlo en la lista.
+https://github.com/JOSE77-SLAP/Challenge_AmigoSecreto_Castillo/blob/9df6b2a485629f55806f895dd9382d2b8573cffa/Manual_de_usuario/A%C3%B1adir_nombre.jpg
 3. Repite el proceso hasta agregar todos los participantes deseados.
 4. Presiona "Sortear amigo" para seleccionar un nombre aleatoriamente.
 5. El nombre sorteado aparecerá en pantalla.
